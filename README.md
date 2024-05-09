@@ -1,4 +1,4 @@
-# 102103611-Multi-Threading
+# 102103663-Multi-Threading
 Methodology :
 Matrix Size: Matrices of size NxN are used, where N is chosen to be sufficiently large to ensure a significant computation workload. Constant Matrix: A constant matrix of the same size as the input matrices is generated for multiplication. Thread Configuration: Matrix multiplication is performed using varying numbers of threads, ranging from 1 to 8. Performance Metrics: The time taken to perform matrix multiplication with each thread configuration is measured.
 
